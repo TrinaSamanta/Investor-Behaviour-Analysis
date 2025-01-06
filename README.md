@@ -1,5 +1,4 @@
 # Investor-Behaviour-Analysis
-
 Description:
 This project explores investor preferences, saving objectives, and motivations using an interactive Power BI dashboard. It provides key insights into investment patterns based on demographics, objectives, and other factors.
 
