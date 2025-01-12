@@ -2,11 +2,20 @@
 Description:
 This project explores investor preferences, saving objectives, and motivations using an interactive Power BI dashboard. It provides key insights into investment patterns based on demographics, objectives, and other factors.
 
-Project Contents:
+# Project Contents:
 
-Dataset: The dataset includes investor details such as age, gender, investment avenues, objectives, factors influencing decisions, and more.
+# Dataset: 
+The dataset includes investor details such as age, gender, investment avenues, objectives, factors influencing decisions, and more.
+# Key Tasks:
+1. Data exploration and summary - Understand and summarize key statistics in the dataset.
+2. Gender-based analysis - Analyze and visualize gender based differences in investment preferences.
+3. Objective Analysis - Analyze the relationship between savings objectives and investment choices.
+4. Investment Duration and Frequency - Analyze investment durations and monitoring frequencies.
+5. Reasons for Investment - Analyze and visualize the reasons for investment.
+6. Source of Information - Analyze the sources from which individuals gather investment information.
+DAX Calculations: 
 
-DAX Calculations: Key measures created using DAX for insights.
+Key measures created using DAX for insights.
 
 Visualizations: A range of charts and interactive elements to explore the data.
 
@@ -24,7 +33,7 @@ Dashboard Features:
 
 5. Interactive Filters: Allows users to dynamically filter data by age, gender, objective, and more.
 
-Tools Used:
+# Tools Used:
 
 Power BI: For data visualization and dashboard creation.
 
