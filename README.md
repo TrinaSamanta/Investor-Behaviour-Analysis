@@ -2,8 +2,6 @@
 Description:
 This project explores investor preferences, saving objectives, and motivations using an interactive Power BI dashboard. It provides key insights into investment patterns based on demographics, objectives, and other factors.
 
-# Project Contents:
-
 # Dataset: 
 The dataset includes investor details such as age, gender, investment avenues, objectives, factors influencing decisions, and more.
 # Key Tasks:
